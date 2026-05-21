@@ -1,2 +1,2 @@
-# student-brs-system
+# student-rating-system
 Система учета и анализа БРС студентов
